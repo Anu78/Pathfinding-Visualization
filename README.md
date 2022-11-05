@@ -13,4 +13,4 @@
 
 ## Preview
 
-(./screenshots/pathfinding_algorithm.gif)
+~[](screenshots/pathfinding_algorithm.gif)
