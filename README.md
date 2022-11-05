@@ -12,5 +12,4 @@
 2. Add support for Dijkstra's algorithm
 
 ## Preview
-
-~[](screenshots/pathfinding_algorithm.gif)
+![](https://github.com/Anu78/Pathfinding-Visualization/blob/main/screenshots/pathfinding_algorithm.gif)
